@@ -1,3 +1,4 @@
+// https://github.com/eturino/underscore_namespace.git
 // based on namespace function from projs course (https://github.com/redradix/material-projs/)
 (function (_) {
     _.mixin({
